@@ -1,0 +1,4 @@
+# ignore the .class files stored in bin
+/src/bin
+# ignore the .txt - output of running the algorithm
+*.txt
