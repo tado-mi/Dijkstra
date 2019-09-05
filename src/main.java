@@ -12,7 +12,7 @@ public class main {
       String T = args[2];
 
       String filename = "../../data/" + mapname + ".txt";
-      String logFilename = "../../" + S + "-" + T + ".txt";
+      String logFilename = S + "-" + T + ".txt";
 
       // initialise the graph
       Graph graph = new Graph();
