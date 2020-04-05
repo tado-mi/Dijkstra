@@ -1,2 +1,3 @@
 # ignore the .class and .txt files stored in bin
 /src/bin
+simulator/node_modules/*
